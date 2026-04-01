@@ -22,7 +22,7 @@ Designed and validated an integrated Power Management Unit (PMU) from schematic 
 
 ### Webpage look
 
-![Schematic](Images/Screenshot%202026-04-1%20101331.png)
+![Schematic](Images/101.png)
 
 
 
